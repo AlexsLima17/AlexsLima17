@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Tecnologias que uso e gosto
+### 🛠️ Tecnologias que uso
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
