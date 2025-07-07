@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Alex Lima</h1>
-<p align="center">💻 Desenvolvedor Fullstack | 🎧 Apaixonado por tecnologia, música e café ☕</p>
+<p align="center">💻 Desenvolvedor Fullstack | 🎧 Apaixonado por tecnologia, música </p>
 
 ---
 
