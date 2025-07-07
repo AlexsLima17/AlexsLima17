@@ -16,6 +16,14 @@
 
 ---
 
+### 🧠 Outras habilidades criativas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CorelDRAW-Graphic_Design-47A348?style=for-the-badge&logo=coreldraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-3D_Modeling-DD120C?style=for-the-badge&logo=sketchup&logoColor=white" />
+</p>
+
+---
 ### 📈 Minhas estatísticas no GitHub
 
 <div align="center">
